@@ -21,7 +21,6 @@ def pause():
 
 # ligne pour régler l'heure de l'alarme
 alarme_set = regler_alarme(15,5,0)
-en_pause = False
 
 
 def main():
